@@ -1,0 +1,147 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
+
+.color1{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    background-color: #333333;
+    border-radius: 3px;
+}
+.color2{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    background-color: #4f4f4f;
+    border-radius: 3px;
+}
+
+.color3{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    background-color: #828282;
+    border-radius: 3px;
+}
+
+.color4{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    background-color: #bdbdbd;
+    border-radius: 3px;
+}
+
+.color5{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    background-color: #e0e0e0;
+    border-radius: 3px;
+}
+
+.color6{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    background-color: #f2f2f2;
+    border-radius: 3px;
+}
+.color7{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    background-color: #EB5757;
+    border-radius: 3px;
+}
+.color8{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    background-color: #F2994A;
+    border-radius: 3px;
+}
+
+.color9{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    background-color: #F2C94C;
+    border-radius: 3px;
+}
+
+.color10{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    background-color: #219653;
+    border-radius: 3px;
+}
+
+.color11{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    background-color: #27AE60;
+    border-radius: 3px;
+}
+
+.color12{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    background-color: #6FCF97;
+    border-radius: 3px;
+}
+
+.color13{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    background-color: #2F80ED;
+    border-radius: 3px;
+}
+.color14{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    background-color: #2D9CDB;
+    border-radius: 3px;
+}
+
+.color15{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    background-color: #56CCF2;
+    border-radius: 3px;
+}
+
+.color16{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    background-color: #9B51E0;
+    border-radius: 3px;
+}
+
+.color17{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    background-color: #BB6BD9;
+    border-radius: 3px;
+}
+
