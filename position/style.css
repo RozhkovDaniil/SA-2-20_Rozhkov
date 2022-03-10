@@ -1,0 +1,24 @@
+*{
+    margin: 0ch;
+    padding: 0ch;
+}
+
+.white1{
+    height: 1000px;
+    width: 99vw;
+    position: relative;
+    z-index: 0;
+    top: 100px;
+}
+
+.red{
+    height: 100px;
+    width: 99vw;
+    justify-content: center;
+    position: fixed;
+    z-index: 1;
+    background-color: greenyellow;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
