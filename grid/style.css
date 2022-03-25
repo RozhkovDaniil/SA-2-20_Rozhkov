@@ -3,6 +3,7 @@
     margin: 0px;
     width: 1440px;
     height: 1024px;
+    align-items: center;
 }
 
 .head{
@@ -104,7 +105,7 @@
     top: 141px;
     display: grid;
     grid-template-columns: 315px 22px 310px 22px 377px 22px 242px;
-    grid-template-rows: 248px 25px 145px 25px 52px 25px 122px 22px 209px;
+    grid-template-rows: 248px 25px 145px 0px 78px 22px 122px 0px 209px;
 }
 
 .photo1{
@@ -141,4 +142,64 @@
     grid-row-start: 1;
     grid-row-end: 6;
     background: url(./asserts/PQCKGMhiqpU\ 1.png);
+}
+
+.photo4{
+    width: 242px;
+    height: 495px;
+    margin: 0px;
+    padding: 0px;
+    grid-column-start: 7;
+    grid-column-end: 8;
+    grid-row-start: 1;
+    grid-row-end: 6;
+    background: url(./asserts/Khv38I6A-us\ 1.png);
+}
+
+.photo5{
+    width: 314px;
+    height: 200px;
+    margin: 0px;
+    padding: 0px;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 5;
+    grid-row-end: 6;
+    background: url(./asserts/dDiNgOcxGn4.png);
+}
+
+.photo6{
+    width: 310px;
+    height: 345px;
+    margin: 0px;
+    padding: 0px;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 3;
+    grid-row-end: 8;
+    background: url(./asserts/eDh9Aza081U.png);
+}
+
+.photo7{
+    width: 647px;
+    height: 207px;
+    margin: 0px;
+    padding: 0px;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 9;
+    grid-row-end: 10;
+    background: url(./asserts/yes.png);
+}
+
+.photo8{
+    width: 641px;
+    height: 328px;
+    margin: 0px;
+    padding: 0px;
+    grid-column-start: 5;
+    grid-column-end: 8;
+    grid-row-start: 7;
+    grid-row-end: 10;
+    background: url(./asserts/H46P4km2fiY\ 1.png);
 }
