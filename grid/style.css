@@ -104,7 +104,7 @@
     top: 141px;
     display: grid;
     grid-template-columns: 315px 22px 310px 22px 377px 22px 242px;
-    grid-template-rows: 248px 25px 145px 0px 78px 22px 122px 0px 209px;
+    grid-template-rows: 248px 25px 145px 78px 22px 122px 209px;
 }
 
 .photo1{
@@ -133,7 +133,7 @@
     grid-column-start: 5;
     grid-column-end: 6;
     grid-row-start: 1;
-    grid-row-end: 6;
+    grid-row-end: 5;
     background: url(./asserts/PQCKGMhiqpU\ 1.png);
 }
 
@@ -143,7 +143,7 @@
     grid-column-start: 7;
     grid-column-end: 8;
     grid-row-start: 1;
-    grid-row-end: 6;
+    grid-row-end: 5;
     background: url(./asserts/Khv38I6A-us\ 1.png);
 }
 
@@ -152,8 +152,8 @@
     height: 200px;
     grid-column-start: 1;
     grid-column-end: 2;
-    grid-row-start: 5;
-    grid-row-end: 6;
+    grid-row-start: 4;
+    grid-row-end: 5;
     background: url(./asserts/dDiNgOcxGn4.png);
 }
 
@@ -163,7 +163,7 @@
     grid-column-start: 3;
     grid-column-end: 4;
     grid-row-start: 3;
-    grid-row-end: 8;
+    grid-row-end: 6;
     background: url(./asserts/eDh9Aza081U.png);
 }
 
@@ -172,8 +172,8 @@
     height: 207px;
     grid-column-start: 1;
     grid-column-end: 4;
-    grid-row-start: 9;
-    grid-row-end: 10;
+    grid-row-start: 7;
+    grid-row-end: 8;
     background: url(./asserts/yes.png);
 }
 
@@ -182,7 +182,7 @@
     height: 328px;
     grid-column-start: 5;
     grid-column-end: 8;
-    grid-row-start: 7;
-    grid-row-end: 10;
+    grid-row-start: 6;
+    grid-row-end: 8;
     background: url(./asserts/H46P4km2fiY\ 1.png);
 }
