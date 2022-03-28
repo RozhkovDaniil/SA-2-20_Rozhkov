@@ -3,7 +3,6 @@
     margin: 0px;
     width: 1440px;
     height: 1024px;
-    align-items: center;
 }
 
 .head{
@@ -116,15 +115,11 @@
     grid-row-start: 1;
     grid-row-end: 4;
     background: url(./asserts/dZFeVYW-ENE.png);
-    margin: 0px;
-    padding: 0px;
 }
 
 .photo2{
     width: 310px;
     height: 248px;
-    margin: 0px;
-    padding: 0px;
     grid-column-start: 3;
     grid-column-end: 3;
     grid-row-start: 1;
@@ -135,8 +130,6 @@
 .photo3{
     width: 377px;
     height: 495px;
-    margin: 0px;
-    padding: 0px;
     grid-column-start: 5;
     grid-column-end: 6;
     grid-row-start: 1;
@@ -147,8 +140,6 @@
 .photo4{
     width: 242px;
     height: 495px;
-    margin: 0px;
-    padding: 0px;
     grid-column-start: 7;
     grid-column-end: 8;
     grid-row-start: 1;
@@ -159,8 +150,6 @@
 .photo5{
     width: 314px;
     height: 200px;
-    margin: 0px;
-    padding: 0px;
     grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 5;
@@ -171,8 +160,6 @@
 .photo6{
     width: 310px;
     height: 345px;
-    margin: 0px;
-    padding: 0px;
     grid-column-start: 3;
     grid-column-end: 4;
     grid-row-start: 3;
@@ -183,8 +170,6 @@
 .photo7{
     width: 647px;
     height: 207px;
-    margin: 0px;
-    padding: 0px;
     grid-column-start: 1;
     grid-column-end: 4;
     grid-row-start: 9;
@@ -195,8 +180,6 @@
 .photo8{
     width: 641px;
     height: 328px;
-    margin: 0px;
-    padding: 0px;
     grid-column-start: 5;
     grid-column-end: 8;
     grid-row-start: 7;
