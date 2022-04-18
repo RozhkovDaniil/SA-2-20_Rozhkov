@@ -4,7 +4,7 @@
 }
 
 .normal{
-    position: absolute;
+    position: relative;
     width: 185px;
     height: 51px;
     background: linear-gradient(108.62deg, #5D5FEF 20.49%, #7879F1 46.52%, #A5A6F6 78.55%, #A5A6F6 78.55%);
@@ -19,7 +19,7 @@
 }
 
 .Normal{
-    position: absolute;
+    position: relative;
     top: 10px;
     width: 85px;
     height: 29px;
@@ -31,7 +31,9 @@
 }
 
 .hover{
-    position: absolute;
+    position: relative;
+    align-items: center;
+    justify-content: center;
     top: 220px;
     left: 345px;
     width: 185px;
@@ -50,13 +52,9 @@
     height: 102px;
 }
 
-.hover:hover .Hover{
-    top: 25px;
-}
 
 .Hover{
-    position: absolute;
-    top: 10px;
+    position: relative;
     width: 68px;
     height: 29px;
     font-family: 'Sen';
@@ -69,7 +67,9 @@
 }
 
 .pressed{
-    position: absolute;
+    position: relative;
+    align-items: center;
+    justify-content: center;
     top: 293px;
     left: 345px;
     width: 185px;
@@ -83,8 +83,7 @@
 }
 
 .Pressed{
-    position: absolute;
-    top: 10px;
+    position: relative;
     width: 87px;
     height: 29px;
     font-family: 'Sen';
@@ -99,8 +98,4 @@
 .pressed:active{
     width: 370px;
     height: 102px;
-}
-
-.pressed:active .Pressed{
-    top: 20px;
 }
